@@ -1,0 +1,207 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\ozgun\\Documents\\GitHub\\FinalProject\\backend\\Music\\Music.Business\\Music.Business.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\ozgun\\Documents\\GitHub\\FinalProject\\backend\\Music\\Music.Business\\Music.Business.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ozgun\\Documents\\GitHub\\FinalProject\\backend\\Music\\Music.Business\\Music.Business.csproj",
+        "projectName": "Music.Business",
+        "projectPath": "C:\\Users\\ozgun\\Documents\\GitHub\\FinalProject\\backend\\Music\\Music.Business\\Music.Business.csproj",
+        "packagesPath": "C:\\Users\\ozgun\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ozgun\\Documents\\GitHub\\FinalProject\\backend\\Music\\Music.Business\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ozgun\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\ozgun\\Documents\\GitHub\\FinalProject\\backend\\Music\\Music.DataAccess\\Music.DataAccess.csproj": {
+                "projectPath": "C:\\Users\\ozgun\\Documents\\GitHub\\FinalProject\\backend\\Music\\Music.DataAccess\\Music.DataAccess.csproj"
+              },
+              "C:\\Users\\ozgun\\Documents\\GitHub\\FinalProject\\backend\\Music\\Music.Models\\Music.Models.csproj": {
+                "projectPath": "C:\\Users\\ozgun\\Documents\\GitHub\\FinalProject\\backend\\Music\\Music.Models\\Music.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[10.1.1, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.1.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ozgun\\Documents\\GitHub\\FinalProject\\backend\\Music\\Music.DataAccess\\Music.DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ozgun\\Documents\\GitHub\\FinalProject\\backend\\Music\\Music.DataAccess\\Music.DataAccess.csproj",
+        "projectName": "Music.DataAccess",
+        "projectPath": "C:\\Users\\ozgun\\Documents\\GitHub\\FinalProject\\backend\\Music\\Music.DataAccess\\Music.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\ozgun\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ozgun\\Documents\\GitHub\\FinalProject\\backend\\Music\\Music.DataAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ozgun\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\ozgun\\Documents\\GitHub\\FinalProject\\backend\\Music\\Music.Models\\Music.Models.csproj": {
+                "projectPath": "C:\\Users\\ozgun\\Documents\\GitHub\\FinalProject\\backend\\Music\\Music.Models\\Music.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.8, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ozgun\\Documents\\GitHub\\FinalProject\\backend\\Music\\Music.Models\\Music.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ozgun\\Documents\\GitHub\\FinalProject\\backend\\Music\\Music.Models\\Music.Models.csproj",
+        "projectName": "Music.Models",
+        "projectPath": "C:\\Users\\ozgun\\Documents\\GitHub\\FinalProject\\backend\\Music\\Music.Models\\Music.Models.csproj",
+        "packagesPath": "C:\\Users\\ozgun\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ozgun\\Documents\\GitHub\\FinalProject\\backend\\Music\\Music.Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ozgun\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

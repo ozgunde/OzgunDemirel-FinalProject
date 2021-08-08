@@ -1,0 +1,14 @@
+C:\Users\ozgun\Documents\GitHub\FinalProject\backend\Music\Music.Business\bin\Debug\netcoreapp3.1\Music.Business.deps.json
+C:\Users\ozgun\Documents\GitHub\FinalProject\backend\Music\Music.Business\bin\Debug\netcoreapp3.1\Music.Business.dll
+C:\Users\ozgun\Documents\GitHub\FinalProject\backend\Music\Music.Business\bin\Debug\netcoreapp3.1\Music.Business.pdb
+C:\Users\ozgun\Documents\GitHub\FinalProject\backend\Music\Music.Business\bin\Debug\netcoreapp3.1\Music.DataAccess.dll
+C:\Users\ozgun\Documents\GitHub\FinalProject\backend\Music\Music.Business\bin\Debug\netcoreapp3.1\Music.Models.dll
+C:\Users\ozgun\Documents\GitHub\FinalProject\backend\Music\Music.Business\bin\Debug\netcoreapp3.1\Music.DataAccess.pdb
+C:\Users\ozgun\Documents\GitHub\FinalProject\backend\Music\Music.Business\bin\Debug\netcoreapp3.1\Music.Models.pdb
+C:\Users\ozgun\Documents\GitHub\FinalProject\backend\Music\Music.Business\obj\Debug\netcoreapp3.1\Music.Business.csprojAssemblyReference.cache
+C:\Users\ozgun\Documents\GitHub\FinalProject\backend\Music\Music.Business\obj\Debug\netcoreapp3.1\Music.Business.AssemblyInfoInputs.cache
+C:\Users\ozgun\Documents\GitHub\FinalProject\backend\Music\Music.Business\obj\Debug\netcoreapp3.1\Music.Business.AssemblyInfo.cs
+C:\Users\ozgun\Documents\GitHub\FinalProject\backend\Music\Music.Business\obj\Debug\netcoreapp3.1\Music.Business.csproj.CoreCompileInputs.cache
+C:\Users\ozgun\Documents\GitHub\FinalProject\backend\Music\Music.Business\obj\Debug\netcoreapp3.1\Music.Business.csproj.CopyComplete
+C:\Users\ozgun\Documents\GitHub\FinalProject\backend\Music\Music.Business\obj\Debug\netcoreapp3.1\Music.Business.dll
+C:\Users\ozgun\Documents\GitHub\FinalProject\backend\Music\Music.Business\obj\Debug\netcoreapp3.1\Music.Business.pdb

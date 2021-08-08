@@ -1,0 +1,15 @@
+C:\Users\ozgun\Documents\GitHub\FinalProject\backend\Music\Music.DataAccess\bin\Debug\netcoreapp3.1\Music.DataAccess.deps.json
+C:\Users\ozgun\Documents\GitHub\FinalProject\backend\Music\Music.DataAccess\bin\Debug\netcoreapp3.1\Music.DataAccess.dll
+C:\Users\ozgun\Documents\GitHub\FinalProject\backend\Music\Music.DataAccess\bin\Debug\netcoreapp3.1\Music.DataAccess.pdb
+C:\Users\ozgun\Documents\GitHub\FinalProject\backend\Music\Music.DataAccess\bin\Debug\netcoreapp3.1\Music.Models.dll
+C:\Users\ozgun\Documents\GitHub\FinalProject\backend\Music\Music.DataAccess\bin\Debug\netcoreapp3.1\Music.Models.pdb
+C:\Users\ozgun\Documents\GitHub\FinalProject\backend\Music\Music.DataAccess\obj\Debug\netcoreapp3.1\Music.DataAccess.csprojAssemblyReference.cache
+C:\Users\ozgun\Documents\GitHub\FinalProject\backend\Music\Music.DataAccess\obj\Debug\netcoreapp3.1\Music.DataAccess.AssemblyInfoInputs.cache
+C:\Users\ozgun\Documents\GitHub\FinalProject\backend\Music\Music.DataAccess\obj\Debug\netcoreapp3.1\Music.DataAccess.AssemblyInfo.cs
+C:\Users\ozgun\Documents\GitHub\FinalProject\backend\Music\Music.DataAccess\obj\Debug\netcoreapp3.1\Music.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\ozgun\Documents\GitHub\FinalProject\backend\Music\Music.DataAccess\obj\Debug\netcoreapp3.1\Music.DataAccess.csproj.CopyComplete
+C:\Users\ozgun\Documents\GitHub\FinalProject\backend\Music\Music.DataAccess\obj\Debug\netcoreapp3.1\Music.DataAccess.dll
+C:\Users\ozgun\Documents\GitHub\FinalProject\backend\Music\Music.DataAccess\obj\Debug\netcoreapp3.1\Music.DataAccess.pdb
+C:\Users\ozgun\Documents\GitHub\FinalProject\backend\Music\Music.DataAccess\bin\Debug\netcoreapp3.1\Music.DataAccess.runtimeconfig.json
+C:\Users\ozgun\Documents\GitHub\FinalProject\backend\Music\Music.DataAccess\bin\Debug\netcoreapp3.1\Music.DataAccess.runtimeconfig.dev.json
+C:\Users\ozgun\Documents\GitHub\FinalProject\backend\Music\Music.DataAccess\obj\Debug\netcoreapp3.1\Music.DataAccess.genruntimeconfig.cache

@@ -1,0 +1,9 @@
+C:\Users\ozgun\Documents\GitHub\FinalProject\backend\Music\Music.Models\bin\Debug\netcoreapp3.1\Music.Models.deps.json
+C:\Users\ozgun\Documents\GitHub\FinalProject\backend\Music\Music.Models\bin\Debug\netcoreapp3.1\Music.Models.dll
+C:\Users\ozgun\Documents\GitHub\FinalProject\backend\Music\Music.Models\bin\Debug\netcoreapp3.1\Music.Models.pdb
+C:\Users\ozgun\Documents\GitHub\FinalProject\backend\Music\Music.Models\obj\Debug\netcoreapp3.1\Music.Models.csprojAssemblyReference.cache
+C:\Users\ozgun\Documents\GitHub\FinalProject\backend\Music\Music.Models\obj\Debug\netcoreapp3.1\Music.Models.AssemblyInfoInputs.cache
+C:\Users\ozgun\Documents\GitHub\FinalProject\backend\Music\Music.Models\obj\Debug\netcoreapp3.1\Music.Models.AssemblyInfo.cs
+C:\Users\ozgun\Documents\GitHub\FinalProject\backend\Music\Music.Models\obj\Debug\netcoreapp3.1\Music.Models.csproj.CoreCompileInputs.cache
+C:\Users\ozgun\Documents\GitHub\FinalProject\backend\Music\Music.Models\obj\Debug\netcoreapp3.1\Music.Models.dll
+C:\Users\ozgun\Documents\GitHub\FinalProject\backend\Music\Music.Models\obj\Debug\netcoreapp3.1\Music.Models.pdb
